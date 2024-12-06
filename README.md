@@ -1,11 +1,8 @@
 # Medily   
 **Efficient Healthcare, Simplified for Patients and Doctors**  
+[![Built with Kotlin](https://img.shields.io/badge/Powered%20by-Kotlin-orange)](https://kotlinlang.org/) [![Firebase Enabled](https://img.shields.io/badge/Firebase-Integrated-blue)](https://firebase.google.com/) [![Secure Payments](https://img.shields.io/badge/UPI-Payments-green)](https://upi.org.in/) [![AES Encryption](https://img.shields.io/badge/Data%20Security-AES%20Encryption-yellow)](#)
 
-[![Download Medily](https://img.shields.io/badge/Download-Medily-brightgreen)](https://github.com/aritra-tech/Medily)  
-[![Built with Kotlin](https://img.shields.io/badge/Powered%20by-Kotlin-orange)](https://kotlinlang.org/)  
-[![Firebase Enabled](https://img.shields.io/badge/Firebase-Integrated-blue)](https://firebase.google.com/)  
-[![Secure Payments](https://img.shields.io/badge/UPI-Payments-green)](https://upi.org.in/)  
-[![AES Encryption](https://img.shields.io/badge/Data%20Security-AES%20Encryption-yellow)](#)  
+make them appear in online
 
 ---
 
